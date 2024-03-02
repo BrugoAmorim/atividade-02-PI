@@ -1,0 +1,27 @@
+.divA{
+    height: 50vh; 
+    width: 55vw; 
+    background-color: #f400a1;
+}
+.divB{
+    height: 70%; 
+    width: 72%; 
+    background-color: #513612;
+}
+.paragrafo{
+    color: black; 
+    background-color: rgb(114, 0, 0); 
+    font-size: 30px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-weight: lighter;
+}
+.divC{
+    width: 40%; 
+    height: 40vh; 
+    background-color: rgb(153, 180, 0);
+}
+.divD{
+    width: 80vw; 
+    height: 50%; 
+    background-color: royalblue;
+}
